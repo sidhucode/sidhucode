@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I'm Sidd, a college student at SJSU!
+
+🌱 I'm currently learning about REST API integration with Applications, and creating/finetuning ML models.
+
+📫 You can reach me at my LinkedIn: https://www.linkedin.com/in/siddhartha-shibi-b23950214/
+
 <!--
 **sidhucode/sidhucode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
